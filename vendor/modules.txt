@@ -1,0 +1,6 @@
+# github.com/flynn/flynn v0.0.0-20200217184133-bcfcac198f67
+## explicit
+github.com/flynn/flynn/pkg/shutdown
+# github.com/flynn/go-docopt v0.0.0-20140912013429-f6dd2ebbb31e
+## explicit
+github.com/flynn/go-docopt
